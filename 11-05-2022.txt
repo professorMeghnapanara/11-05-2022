@@ -1,0 +1,7 @@
+* Gray layouts & box-model.
+* why required ?
+* Explain Layout performance 
+* Rows :#R1
+* COL: EXAMPLE #R1C1,(Req.)
+* 5 gray layout.
+  
